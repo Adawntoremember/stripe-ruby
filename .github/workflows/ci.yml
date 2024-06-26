@@ -1,4 +1,4 @@
-name: CI
+[![CI](https://github.com/stripe/stripe-ruby/actions/workflows/ci.yml/badge.svg?event=check_run)](https://github.com/stripe/stripe-ruby/actions/workflows/ci.yml)name: CI
 
 on:
   workflow_dispatch: {}
